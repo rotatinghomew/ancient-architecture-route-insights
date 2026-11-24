@@ -1,0 +1,4 @@
+﻿route_id,version,sequence,space_id,display_label
+R1,v1,1,SP1,入口至堂
+R1,v1,2,SP2,东厢
+R1,v2,1,SP2,东线入口
